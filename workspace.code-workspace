@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\HT"
+		},
+		{
+			"path": "..\\..\\ProjectFolder"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Weekly Challenges"
+    }
+}
